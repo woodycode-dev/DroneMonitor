@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gyuhee\\DroneMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\services\\mavlinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\services\\mavlinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\models\\dronestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\models\\dronestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DroneMonitor\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DroneMonitor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:55:19.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DroneMonitor\\MainWindow.xaml",
+              "ToolTip": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\MainWindow.xaml",
+              "RelativeToolTip": "DroneMonitor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T14:46:06.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MavLinkService.cs",
+              "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\Services\\MavLinkService.cs",
+              "RelativeDocumentMoniker": "DroneMonitor\\Services\\MavLinkService.cs",
+              "ToolTip": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\Services\\MavLinkService.cs",
+              "RelativeToolTip": "DroneMonitor\\Services\\MavLinkService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwGAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:31:15.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "DroneMonitor\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "DroneMonitor\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:27:06.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DroneStatus.cs",
+              "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\Models\\DroneStatus.cs",
+              "RelativeDocumentMoniker": "DroneMonitor\\Models\\DroneStatus.cs",
+              "ToolTip": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\Models\\DroneStatus.cs",
+              "RelativeToolTip": "DroneMonitor\\Models\\DroneStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:26:19.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
