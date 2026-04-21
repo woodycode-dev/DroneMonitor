@@ -9,17 +9,28 @@ namespace DroneMonitor.Services
         private UdpClient? udpClient;
 
         // MAVLink 기본 포트 (Mission Planner / ArduPilot SITL 기본값)
-        private const int Port = 14550;
+        private const int Port = 14553;
 
         // 드론 데이터 수신 시 ViewModel에게 알려주는 이벤트
         // ViewModel이 이 이벤트를 구독해서 UI 업데이트
         public event Action<DroneStatus>? OnDroneStatusUpdated;
 
         // 서비스 시작 - UDP 포트 열고 수신 루프 백그라운드 실행
+        //public void Start()
+        //{
+        //    // 14550 포트로 바인딩해서 수신 대기
+        //    udpClient = new UdpClient(Port);
+        //    Task.Run(ReceiveLoop);
+        //}
+
         public void Start()
         {
-            // 14550 포트로 바인딩해서 수신 대기
-            udpClient = new UdpClient(Port);
+            // 특정 포트 바인딩 대신 임의 포트로 수신
+            udpClient = new UdpClient();
+            udpClient.Client.SetSocketOption(
+                System.Net.Sockets.SocketOptionLevel.Socket,
+                System.Net.Sockets.SocketOptionName.ReuseAddress, true);
+            udpClient.Client.Bind(new System.Net.IPEndPoint(System.Net.IPAddress.Any, Port));
             Task.Run(ReceiveLoop);
         }
 

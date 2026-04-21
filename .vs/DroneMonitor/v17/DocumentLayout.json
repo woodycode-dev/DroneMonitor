@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\gyuhee\\DroneMonitor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\services\\mavlinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\services\\mavlinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\.gitignore",
               "RelativeDocumentMoniker": "DroneMonitor\\.gitignore",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "DroneMonitor\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-20T16:49:34.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T16:49:34.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DroneMonitor\\MainWindow.xaml.cs",
@@ -59,30 +58,28 @@
               "RelativeToolTip": "DroneMonitor\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:55:19.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T14:55:19.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DroneMonitor\\MainWindow.xaml",
               "ToolTip": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\MainWindow.xaml",
               "RelativeToolTip": "DroneMonitor\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-20T14:46:06.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T14:46:06.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MavLinkService.cs",
               "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\Services\\MavLinkService.cs",
               "RelativeDocumentMoniker": "DroneMonitor\\Services\\MavLinkService.cs",
               "ToolTip": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\Services\\MavLinkService.cs",
               "RelativeToolTip": "DroneMonitor\\Services\\MavLinkService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T14:31:15.167Z",
               "EditorCaption": ""
@@ -97,8 +94,7 @@
               "RelativeToolTip": "DroneMonitor\\ViewModels\\MainViewModel.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAwEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:27:06.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T14:27:06.468Z"
             },
             {
               "$type": "Document",
