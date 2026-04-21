@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\gyuhee\\DroneMonitor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|solutionrelative:dronemonitor\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A3F81CAB-4957-4503-9FAE-AF842DBD4AD6}|\uC194\uB8E8\uC158 \uD56D\uBAA9{A3F81CAB-4957-4503-9FAE-AF842DBD4AD6}|D:\\gyuhee\\DroneMonitor\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A3F81CAB-4957-4503-9FAE-AF842DBD4AD6}|\uC194\uB8E8\uC158 \uD56D\uBAA9{A3F81CAB-4957-4503-9FAE-AF842DBD4AD6}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02B65F5D-8B5C-4B4F-955E-B84350A50D83}|DroneMonitor\\DroneMonitor.csproj|d:\\gyuhee\\dronemonitor\\dronemonitor\\services\\mavlinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,13 +44,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
-              "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\README.md",
-              "RelativeDocumentMoniker": "DroneMonitor\\README.md",
-              "ToolTip": "D:\\gyuhee\\DroneMonitor\\DroneMonitor\\README.md",
-              "RelativeToolTip": "DroneMonitor\\README.md",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEoAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\gyuhee\\DroneMonitor\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\gyuhee\\DroneMonitor\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-21T06:53:57.137Z",
+              "WhenOpened": "2026-04-21T07:02:52.093Z",
               "EditorCaption": ""
             },
             {
@@ -98,8 +98,7 @@
               "RelativeToolTip": "DroneMonitor\\Services\\MavLinkService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:31:15.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T14:31:15.167Z"
             },
             {
               "$type": "Document",
